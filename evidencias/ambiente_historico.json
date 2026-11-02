@@ -1,0 +1,9 @@
+{
+  "utc": "2026-10-21T01:46:34.817418+00:00",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "numpy": "1.26.0",
+  "scipy": "1.16.3",
+  "benchmark_python_hash_seed": "0 (constant across all paired arms; algorithm seeds listed in protocol)",
+  "smoke_excluded": true
+}

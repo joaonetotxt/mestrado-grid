@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  Ao utilizar o projeto, cite a versão efetivamente usada, as referências
+  científicas e a origem dos dados.
+title: "Planejamento da expansão de redes de distribuição"
+type: software
+authors:
+  - family-names: "Silva Neto"
+    given-names: "João Ferreira da"
+abstract: >-
+  Projeto de mestrado de planejamento da expansão de redes de distribuição com
+  avaliação AC, incerteza, CVaR, oito metaheurísticas e híbridos com e sem IA.
+  Implementação original com dez métodos de otimização, auditoria física
+  independente e registro da contabilidade computacional e financeira.
+version: 0.1.0
+date-released: 2026-11-01
+keywords:
+  - planejamento da expansão
+  - redes de distribuição
+  - metaheurísticas
+  - CVaR
+  - armazenamento de energia
+  - inteligência artificial

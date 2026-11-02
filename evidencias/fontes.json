@@ -1,0 +1,170 @@
+{
+  "description": "Hashes of local sources inspected for this documentation. Relative identifiers only; original machine paths omitted.",
+  "files": [
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/protocol.json",
+      "sha256": "b063679c78c775dc6976447b7b98f95cdf516e4f75674bc81b713e08f84ddb51",
+      "bytes": 6253
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/execution_hashes.json",
+      "sha256": "0282abc78a9787288140a740bce2419c0c75432af5f57eefe9e2a36a3c0be45b",
+      "bytes": 33245
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/release_checks.json",
+      "sha256": "b3a849a4d43a6685421a3af964da7934073b66cdfe8ed5f42d1a89d1a6d56ec1",
+      "bytes": 17569
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/environment.json",
+      "sha256": "8233e5c8bcc8c63f555e921f5f8039067bcb76f4c751dc8a98757c004fe2d489",
+      "bytes": 523
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/trial.py",
+      "sha256": "f48b6850991eca37412981fe51d2067876405f6233c4d8acb67b67b8857bbd1b",
+      "bytes": 16205
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/test_contracts.py",
+      "sha256": "477c8b0dd4e8afd90680fc6c985fafa0468d3004d871f2eaa94a2ecce664bc5f",
+      "bytes": 1222
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/source_provenance.json",
+      "sha256": "7fc662892223ccf09425d22440fdef95db5c9fa7ef59ee652e7b672dc5c8fdd7",
+      "bytes": 93844
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/recovery_20261024/readiness_audit.json",
+      "sha256": "9fb6e5802fa64760edcf56d9919c11ba9dc1db435540016b3ecec7eabe84c3dc",
+      "bytes": 218909
+    },
+    {
+      "path": "rede_conciliada_Q_equalizado_20261009/protocol.json",
+      "sha256": "c4dbf8bf5a32c1bcc408d5a14cd5d99d84cd9a49d4b49ee50eb6f5fbfa7759c6",
+      "bytes": 8491
+    },
+    {
+      "path": "DECISAO_BESS_SEM_ILHAMENTO_20261013.json",
+      "sha256": "d0b9556efb1c288e61adaf08083a6b15b7d66af96e80e7cb43bc629ac33d0481",
+      "bytes": 1599
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/PSO/summary.json",
+      "sha256": "9dd88eb6f8b3c5f9dd4725ab0dd546ac05c3ab1fc9ecc8181520b954570c5394",
+      "bytes": 890611
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/PSO/validation.json.gz",
+      "sha256": "cbb2de592dcb568e20aa51e945acfee79ed5a0d0b732ff408f6ac3cd61b213ac",
+      "bytes": 1845547
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/HyDE/summary.json",
+      "sha256": "87172e03968f2e7296ac0f7762feb9fdcf505299bbd3d8823ebeb6a48b439813",
+      "bytes": 884979
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/HyDE/validation.json.gz",
+      "sha256": "12857038a559a5e6ac6b3ddb17abe3e4b7ccb6f72aebb59aa27cf4ee24210ce8",
+      "bytes": 1890689
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/GA/summary.json",
+      "sha256": "635736e9aa651f45c61549c3353d59b206261c5d5d9e325521c455dea39c4790",
+      "bytes": 850649
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/GA/validation.json.gz",
+      "sha256": "a9931db419e908fc6721f7a79781ed488fc4bb2c8ccd0dace9dca0cac38afd39",
+      "bytes": 1896350
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/ACO/summary.json",
+      "sha256": "238f2b1cf81bd7a25017c88b396ecf9de92aadfb0f3b250359899f8de5193e5f",
+      "bytes": 866512
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/ACO/validation.json.gz",
+      "sha256": "7c85eea98b4c533038e9c8efde1e77a893e3a61c1f93fe6c30fc98010166e3e5",
+      "bytes": 1897868
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/Vortex/summary.json",
+      "sha256": "3aa45f9260760820925176cb0940398f5ecb5a44a37f59a6a8ee0fe4353f3dc7",
+      "bytes": 878364
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/Vortex/validation.json.gz",
+      "sha256": "621a9795594ab1498714d523d33a406a4ab82e37dfcbe87cbf01abe4998b6e3e",
+      "bytes": 1840546
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/QPSO/summary.json",
+      "sha256": "311681992a8e61337876578cbcc8a30acd7a1d3606353cc806108191d6d223d5",
+      "bytes": 870603
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/QPSO/validation.json.gz",
+      "sha256": "cabb926cb0e2bd4ee8f3afbfdf45032d866949b65c03b80007a8f860ddacc8fd",
+      "bytes": 1870964
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/SHADE/summary.json",
+      "sha256": "fd146866b375baed4122a6251d195a00e48d5ab04273ba2bfa444eb0675833a8",
+      "bytes": 889451
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/SHADE/validation.json.gz",
+      "sha256": "4295afd1a61bae5a805f3854657be4eb2bda10e197ff49c1673933e098e9cc2e",
+      "bytes": 2711014
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/L-SHADE/summary.json",
+      "sha256": "fbe8a50ea60a739c26654fa91b242366ee59d0e2cf0b2ff5484a3434c4270ed6",
+      "bytes": 1229246
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/L-SHADE/validation.json.gz",
+      "sha256": "baf8f5e67e70a4506df89754f68ee6ac70b6c5fcb0ddfe4caf78b178ea79d46d",
+      "bytes": 1869392
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/HYBRID/summary.json",
+      "sha256": "ce9693934f235666e916784762b1ade3cba0c216a11e70347d25b3d8addbe194",
+      "bytes": 8317
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/HYBRID/validation.json.gz",
+      "sha256": "f463ce88811f983dd33e4c9ec778251a4280c39371b2ccc9e60e40cc946384d3",
+      "bytes": 1827496
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/HYBRID_AI/summary.json",
+      "sha256": "8443a3f464316832536fecce6af17468487487936ee25e163ef912e991f64d29",
+      "bytes": 21554
+    },
+    {
+      "path": "comparacao_dez_metodos_pareada_20261020/runs/sim1_b00_s96101/HYBRID_AI/validation.json.gz",
+      "sha256": "64d2020781717696eb5842d4d05e5a02fc0748ffe649d95f2a636283e1947b4a",
+      "bytes": 1815366
+    },
+    {
+      "path": "output/figures/comparacao_mat_hibrido_ia_20261101/Comparacao_topologia_MAT_hibrido_IA_ano20.png",
+      "sha256": "5fe2fbd3466a52b33b20ea9b05ff3b2cbb4a2833d3907f5ff7b58e011363925c",
+      "bytes": 1346030
+    },
+    {
+      "path": "output/figures/comparacao_mat_hibrido_ia_20261101/Comparacao_topologia_MAT_hibrido_IA_ano20.svg",
+      "sha256": "6295bd3844e421a218d9bef6433cf7ddf8706df8bf96514177bae58862a8af7f",
+      "bytes": 309997
+    },
+    {
+      "path": "output/figures/comparacao_mat_hibrido_ia_20261101/MANIFESTO.json",
+      "sha256": "6204886433c7e59f3be7eba62bce937ac14f50c9bc441afa9de162ad3f9160ab",
+      "bytes": 9561
+    }
+  ]
+}

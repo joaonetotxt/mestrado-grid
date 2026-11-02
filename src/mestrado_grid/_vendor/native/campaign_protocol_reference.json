@@ -1,0 +1,37 @@
+{
+  "parameters_by_engine": {
+    "PSO": {},
+    "HyDE": {},
+    "GA": {
+      "force_mutation": 1
+    },
+    "ACO": {
+      "sigma_floor": 0.02
+    },
+    "Vortex": {
+      "radius_floor": 0.02
+    },
+    "QPSO": {},
+    "SHADE": {}
+  },
+  "persistent_options": {
+    "strategy": "consolidated",
+    "active_constraints": true,
+    "generations_per_visit": 8,
+    "cooling_generations": 64,
+    "min_unique_fraction": 0.75,
+    "radii": [
+      0.02,
+      0.1,
+      0.5,
+      1.0
+    ],
+    "coverage_contract": "all_cases_and_families",
+    "case_pq_focus": true,
+    "pq_adaptive_windows": true,
+    "pq_fast_coverage": true,
+    "risk_native_acceleration": true,
+    "risk_native_reliability": false,
+    "protected_resource_coverage": true
+  }
+}

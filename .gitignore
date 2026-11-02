@@ -1,0 +1,48 @@
+# Ambiente local e caches
+.venv/
+.venv-run/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Configuração privada
+.env
+.env.*
+!.env.example
+auth.json
+credentials.json
+*.pem
+*.key
+.codex/
+
+# Dados de pesquisa externos à distribuição
+/data/raw/
+/data/restricted/
+/sources/
+/artigos/
+
+# Saídas brutas e estado operacional; evidencias/ e assets/ são deliberadamente permitidos
+/runs/
+/results/
+/outputs/
+/output/
+/tmp/
+/logs/
+/backups/
+*.log
+*.pending
+owner.lock
+
+# Artefatos locais de instalação
+build/
+dist/
+*.egg-info/
+exemplo/
+teste_*/
+execucao_*/
